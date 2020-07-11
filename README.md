@@ -1,3 +1,3 @@
 # Jarrod S. Farrell
 
-I'm a jack-of-all trades software developer and system administrator. I occasionally make contributions.
+I'm a jack-of-all trades software developer and system administrator. I occasionally make contributions (but typically with a different account).
